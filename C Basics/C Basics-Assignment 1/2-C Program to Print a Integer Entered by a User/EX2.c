@@ -9,19 +9,15 @@
 
 int main()
 {
-    int num1, num2, sum;
+    int num1;
 
     printf("Please enter num1: ");
     fflush(stdout);
     scanf("%d", &num1);
 
-    printf("Please enter num2: ");
-    fflush(stdout);
-    scanf("%d", &num2);
 
-    sum = num1 + num2;
 
-    printf("Value of Sum: %d\n", sum);
+    printf("Value of num1: %d\n", num1);
 
     return 0;
 }
