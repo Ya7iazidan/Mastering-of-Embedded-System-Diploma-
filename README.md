@@ -41,11 +41,3 @@ __________________________________________________________________
 | [Unit 17: Embedded Linux Basics](https://github.com/Ya7iazidan/Mastering-of-Embedded-System-Diploma-) | ![image](https://progress-bar.dev/0/) |
 __________________________________________________________________
 
-<<<<<<< HEAD
-## Overall progress ![image]()
-___
-
-## My Progress Profile: [Click Here](https://www.learn-in-depth-store.com/certificate/abdallabahrawyy%40gmail.com)
-
----
-
