@@ -13,8 +13,4 @@
 
 ### **First Term** ![100%](https://progress-bar.dev/100/?title=Done&color=4CAF50)
 - **✅ Unit 2: C Programming Mastery**  
-  ![C Expert](https://img.shields.io/badge/C-Expert-00599C?logo=c)
-  - **Key Skills:** Pointers | Memory Management | Data Structures | File I/O
-  - **Code Quality:** 
-    ![CodeFactor](https://www.codefactor.io/repository/github/yourrepo/banking-system/badge)
-    ![Lines of Code](https://img.shields.io/tokei/lines/github/yourrepo/banking-system)
+
