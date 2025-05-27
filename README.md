@@ -48,8 +48,4 @@ ___
 ## My Progress Profile: [Click Here](https://www.learn-in-depth-store.com/certificate/abdallabahrawyy%40gmail.com)
 
 ---
-=======
-### **First Term** ![100%](https://progress-bar.dev/100/?title=Done&color=4CAF50)
-- **✅ Unit 2: C Programming Mastery**  
 
->>>>>>> 6c1837a9c938c9a785c1c598f74177a3705bcff0
