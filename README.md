@@ -11,7 +11,7 @@ __________________________________________________________________
 | ----- | ------|
 | [Unit 1: Diploma Prerequisites](https://github.com/Ya7iazidan/Mastering-of-Embedded-System-Diploma-) | ![image](https://progress-bar.dev/100/?title=No_Assignments&color=bababa) |
 | [Unit 2: C Programming](https://github.com/Ya7iazidan/Mastering-of-Embedded-System-Diploma-/tree/main/C%20Programming) | ![image](https://progress-bar.dev/95/) |
-| [Unit 3: Embedded C])(https://github.com/Ya7iazidan/Mastering-of-Embedded-System-Diploma-) | ![image](https://progress-bar.dev/0/) |
+| [Unit 3: Embedded C](https://github.com/Ya7iazidan/Mastering-of-Embedded-System-Diploma-) | ![image](https://progress-bar.dev/0/) |
 | [Unit 4: System Architect](https://github.com/Ya7iazidan/Mastering-of-Embedded-System-Diploma-) | ![image](https://progress-bar.dev/0/) |
 | [Unit 5: First Term Projects](https://github.com/Ya7iazidan/Mastering-of-Embedded-System-Diploma-) | ![image](https://progress-bar.dev/0/) |
 __________________________________________________________________
